@@ -17,7 +17,7 @@ Project divided into autonomous maneuvers in simulation and real world environme
 
 ### Real World Environment
 
-![MicrosoftTeams-image](https://user-images.githubusercontent.com/79803663/166402942-c1f43d92-2d92-4f8e-ba58-ee6438ed25c2.png)
+![image](https://user-images.githubusercontent.com/79803663/168183844-47ff9bb6-91f6-43fe-8e10-575395b18985.png)
 
 
 ## Tasks
